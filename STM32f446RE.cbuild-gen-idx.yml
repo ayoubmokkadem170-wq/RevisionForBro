@@ -1,0 +1,13 @@
+build-gen-idx:
+  generated-by: uVision version 5.43.1.0
+  generators:
+    - board: 
+      device: STM32F446RETx
+      id: CubeMX
+      output: C:/Users/Ayoub MOKADEM/Desktop/c++/revisionforbroc++/RevisionForBro/STM32CubeMX/STM32f446RE/
+      project-type: single-core
+      cbuild-gens:
+        - cbuild-gen: C:/Users/Ayoub MOKADEM/Desktop/c++/revisionforbroc++/RevisionForBro/RevisionForBro.STM32f446RE.cbuild-gen.yml
+          configuration: .STM32f446RE
+          name: C:/Users/Ayoub MOKADEM/Desktop/c++/revisionforbroc++/RevisionForBro/STM32CubeMX/STM32f446RE/RevisionForBro.cgen.yml
+          project: RevisionForBro
